@@ -2,4 +2,10 @@ public class GitAssignment{
   public void getGit(){
     System.debug('Hello GitHub');
   }
+  public void sum(){
+    integer a=5;
+    integer b=10;
+    integer res;
+      System.debug(res);
+  }
 }
