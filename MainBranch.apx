@@ -1,6 +1,7 @@
 public class GitAssignment{
   public void getGit(){
     System.debug('Hello GitHub');
+    Systm.debig("hi to conflicts");
   }
   public void sum(){
     integer a=5;
